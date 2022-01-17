@@ -1,16 +1,6 @@
-# flutter_project_covid
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Coronavirus Tracker
+- Shows Covid 19 World Data: Number of cases, deaths and recovered with last updated date and time.<br/>
+- Developed using Flutter.<br/>
+- Based on Andrea's nCov 2019 REST API.<br/>
+- Used Dart http library.<br/>
+- Error Handling and Caching Data.<br/>
